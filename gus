@@ -150,6 +150,11 @@ Qeggoez[140] = "Aku selalu berkata benar walaupun aku sedang berbohong..";
 Qeggoez[141] = "Aku selalu berkata jujur walaupun aku sedang bergurau..";
 Qeggoez[142] = "Dalam kekurangan yang tampak dimata pasti ada kelebihan yang tak tampak dimata";
 Qeggoez[143] = "Dalam kelebihan yang tampak dimata pasti ada kekurangan yang tak tampak dimata";
+Qeggoez[144] = "Aku sudah pernah merasakan semua kepahitan dalam hidup, dan yang paling pahit adalah berharap kepada manusia. Ali Bin Abi Thalib";
+Qeggoez[145] = "If you want to know where your heart, see where your mind goes when it wanders. Imam Ali (AS)";
+Qeggoez[146] = "Kecewa itu ada karena Allah ingin menunjukkan bahwa berharaplah hanya padaNya. Harapan yang tak pernah mengecewakan.";
+Qeggoez[147] = "Balas dendam yang terbaik adalah menjadikan dirimu lebih baik";
+
 	var ge = Qeggoez.length;
     var whichQeggoez=Math.round(Math.random()*(ge-1));
 function showQeggoez(){document.write(Qeggoez[whichQeggoez]);}
